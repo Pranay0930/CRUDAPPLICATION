@@ -17,5 +17,10 @@
     "express": "^4.21.1",
     "mongodb": "^6.10.0",
     "pm2": "^5.4.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.16.0",
+    "eslint": "^9.16.0",
+    "globals": "^15.12.0"
   }
 }
